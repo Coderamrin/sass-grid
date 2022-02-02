@@ -68,3 +68,17 @@ So, what we are doing here is we are adding the **container** mixin to the paren
   }
 }
 ```
+
+## **Inspiration**
+The idea was his
+[Noman](https://twitter.com/Nomanux)
+
+And I wrote the code. 
+
+**any feed back is appriciated**
+You can reach us on twitter at 
+[@Amrin](https://twitter.com/coderamrin) 
+and
+[@Noman](https://twitter.com/Nomanux)
+
+## **Thanks for reading**
